@@ -38,7 +38,7 @@
 
 - 🔭 I’m an Indie Game Developer enthusiast!
 
-- 🌱 I’m currently learning Full Stack Development 
+- 🌱 I’m currently learning Full Stack Development at <a href="https://strive.school/" target="_blank">Match 3 Puzzle Game like Candy Crush</a>
 
 - 👯 I’m looking to collaborate on game or web aplications development. 
 
