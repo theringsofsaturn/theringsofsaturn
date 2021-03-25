@@ -36,7 +36,7 @@
 </div>
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on Indie Game Developer
+- 🔭 I’m an Indie Game Developer enthusiast!
 
 - 🌱 I’m currently learning Full Stack Development 
 
