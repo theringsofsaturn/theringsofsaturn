@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://media.giphy.com/media/H4nUqdNomOWzJfoIa6/source.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://goombastomp.com/wp-content/uploads/2019/08/Ranking-Super-Mario-Bros-Series-22.gif" alt="cover" />
 </div>
 
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -34,7 +34,7 @@
 <div align='center'>
 <img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
 </div>
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px></h2>
 
 - 🔭 I’m currently working on Indie Game Developer
 
