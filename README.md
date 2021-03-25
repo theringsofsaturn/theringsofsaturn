@@ -42,7 +42,7 @@
 
 - 👯 I’m looking to collaborate on game or web aplications development. 
 
-- 💬 Talk to me about  
+
 
 <h2> Projects <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px></h2>
 
