@@ -34,7 +34,7 @@
 <div align='center'>
 <img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
 </div>
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px></h2>
+<h2> About Me </h2>
 
 - 🔭 I’m currently working on Indie Game Developer
 
@@ -44,8 +44,19 @@
 
 - 💬 Talk to me about  
 
+<h2> Projects <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px></h2>
 
-
+<ul style="list-style-type:square;">
+        <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.candyzana">Match 3 Puzzle Game like Candy Crush</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.piktorivogel">Educational App for Kids - Coloring Book</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.wordsearch">Educational App for Kids - Word Find App</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.matematikaperfemije">Educational App for Kids - Math App</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.piano">Educational App for Kids - Learn to Play Piano</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.odisea">Casual Game for Kids</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.kozmonauti">My version of Flappy Bird</a></li>
+        <li><a href="https://emilian-kasemi.itch.io/">itch.io Portfolio</a></li>
+        <li><a href="https://play.unity.com/u/the_rings_of_saturn">Unity Play Portfolio</a></li>
+        </ul>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
