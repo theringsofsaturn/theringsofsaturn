@@ -40,7 +40,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Engineering at <a href="https://strive.school/" target="_blank">Strive School</a>
 
-- 👯 I’m looking to collaborate on game or web aplications development. 
+- 👯 I’m looking to collaborate on games or web aplications development. 
 
 
 
