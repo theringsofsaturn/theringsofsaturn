@@ -54,8 +54,10 @@
         <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.piano">Educational App for Kids - Learn to Play Piano</a></li>
         <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.odisea">Casual Game for Kids</a></li>
         <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.kozmonauti">My version of Flappy Bird</a></li>
+        <li><a href="https://play.unity.com/mg/other/endless-runner-prototype-1">Endless Runner Prototype</a></li>
+        <li><a href="https://play.unity.com/mg/other/prototype-5-ui-project">UI Project Prototype</a></li>
+        <li><a href="https://learn.unity.com/u/5e59cec7edbc2a0bf8f72ebd?tab=profile">Unity Learn Portfolio</a></li>
         <li><a href="https://emilian-kasemi.itch.io/">itch.io Portfolio</a></li>
-        <li><a href="https://play.unity.com/u/the_rings_of_saturn">Unity Play Portfolio</a></li>
         </ul>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
