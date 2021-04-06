@@ -58,7 +58,7 @@
         <li><a href="https://play.unity.com/mg/other/prototype-5-ui-project">UI Project Prototype</a></li>
         <li><a href="https://theringsofsaturn.github.io/Vrit_Patat/index.html">Prototype Game - Kill the Duck</a></li>
         <li><a href="https://theringsofsaturn.github.io/Bretkosa_ne_rruge/index.html">Prototype Game - The Frog</a></li>
-        <li><a href="https://emilian-kasemi.itch.io/basket-court-outdoord">Outdoor basketball court 3D model made with Blender</a></li>
+        <li><a href="https://emilian-kasemi.itch.io/basket-court-outdoor">Outdoor basketball court 3D model made with Blender</a></li>
         <li><a href="https://github.com/theringsofsaturn/Ishulli_Askund">Sky Island - 3D Model made with Blender</a></li>
         <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module5/">Chinese Restaurant Project</a></li>
         <li><a href="https://theringsofsaturn.github.io/IBM_Data_Science_Course/Analyzing_US_Economic_Data.html">Analyzing US Economic Data and Building a Dashboard</a></li>
