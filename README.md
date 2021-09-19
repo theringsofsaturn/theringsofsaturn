@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://goombastomp.com/wp-content/uploads/2019/08/Ranking-Super-Mario-Bros-Series-22.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://tenor.com/bb6kB.gif" alt="cover" />
 </div>
 
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
