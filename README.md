@@ -59,14 +59,12 @@
         <li><a href="https://play.unity.com/mg/other/prototype-5-ui-project">UI Project Prototype</a></li>
         <li><a href="https://theringsofsaturn.github.io/Vrit_Patat/index.html">Prototype Game - Kill the Duck</a></li>
         <li><a href="https://theringsofsaturn.github.io/Bretkosa_ne_rruge/index.html">Prototype Game - The Frog</a></li>
-        <li><a href="https://emilian-kasemi.itch.io/basket-court-outdoor">Outdoor basketball court 3D model made with Blender</a></li>
         <li><a href="https://github.com/theringsofsaturn/Ishulli_Askund">Sky Island - 3D Model made with Blender</a></li>
         <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module5/">Chinese Restaurant Project</a></li>
         <li><a href="https://theringsofsaturn.github.io/IBM_Data_Science_Course/Analyzing_US_Economic_Data.html">Analyzing US Economic Data and Building a Dashboard</a></li>
         <li><a href="https://theringsofsaturn.github.io/IBM_Data_Science_Course/Socioeconomics_indicators_in_Chicago.html">Analyzing Chicago Datasets</a></li>
         <li><a href="https://theringsofsaturn.github.io/IBM_Data_Science_Course/Queue_model_for_Data_Science_project/Queue_model_for_patient_flow.html">Managing Patients Flow in the Emergency Department Using Queuing Model</a></li>
         <li><a href="https://learn.unity.com/u/5e59cec7edbc2a0bf8f72ebd?tab=profile">Unity Learn Portfolio</a></li>
-        <li><a href="https://emilian-kasemi.itch.io/">itch.io Portfolio</a></li>
         </ul>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
