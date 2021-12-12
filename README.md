@@ -16,9 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on web applications and 2D games.
+- 🔭 I’m currently working on web applications and 2D/3D games.
 
-- 🌱 I’m currently learning Full-Stack Web Development at <a href="https://strive.school/" target="_blank">Strive School</a>
+- 🌱 I’m a Full-Stack Developer graduating from <a href="https://strive.school/" target="_blank">Strive School</a>
 
 - 👯 I’m looking to collaborate on web applications or game development. 
 
