@@ -64,6 +64,12 @@
 <h2> Projects </h2>
 
 <ul style="list-style-type:square;">
+        <li><a href="https://github.com/theringsofsaturn/Netflix-App-Full-Stack">Fullstack Netflix Application</a></li>
+        <li><a href="https://github.com/theringsofsaturn/LinkedIn-Front-End">Linkedin Front-End</a></li>
+        <li><a href="https://github.com/JTapioT/linkedin-backend-buildweek/tree/develop">Linkedin Back-End</a></li>
+        <li><a href="https://github.com/theringsofsaturn/Spotify">Spotify Front-End</a></li>
+        <li><a href="https://github.com/theringsofsaturn/Strive-School-Students-Blog">Strive School Students Blog</a></li>
+        <li><a href="https://play.unity.com/mg/other/dust-in-the-space">2D Space Shooter Game</a></li>
         <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.candyzana">Match 3 Puzzle Game like Candy Crush</a></li>
         <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.piktorivogel">Educational App for Kids - Coloring Book</a></li>
         <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.wordsearch">Educational App for Kids - Word Find App</a></li>
@@ -71,7 +77,6 @@
         <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.piano">Educational App for Kids - Learn to Play Piano</a></li>
         <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.odisea">Casual Game for Kids</a></li>
         <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.kozmonauti">My version of Flappy Bird</a></li>
-        <li><a href="https://play.unity.com/mg/other/dust-in-the-space">2D Space Shooter Game</a></li>
         <li><a href="https://play.unity.com/mg/other/endless-runner-prototype-1">Endless Runner Prototype</a></li>
         <li><a href="https://play.unity.com/mg/other/prototype-5-ui-project">UI Project Prototype</a></li>
         <li><a href="https://theringsofsaturn.github.io/Vrit_Patat/index.html">Prototype Game - Kill the Duck</a></li>
