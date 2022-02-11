@@ -71,6 +71,7 @@
         <li><a href="https://github.com/JTapioT/linkedin-backend-buildweek/tree/develop">Linkedin Back-End</a></li>
         <li><a href="https://github.com/theringsofsaturn/Spotify">Spotify Front-End</a></li>
         <li><a href="https://github.com/theringsofsaturn/Strive-School-Students-Blog">Strive School Students Blog</a></li>
+         <li><a href="https://github.com/theringsofsaturn/Real-Time-Chat-Socket-Io/tree/main/client">Real Time Chat</a></li>
         <li><a href="https://play.unity.com/mg/other/dust-in-the-space">2D Space Shooter Game</a></li>
         <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.candyzana">Match 3 Puzzle Game like Candy Crush</a></li>
         <li><a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.piktorivogel">Educational App for Kids - Coloring Book</a></li>
