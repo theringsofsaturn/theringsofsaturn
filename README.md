@@ -85,7 +85,7 @@
         <li><a href="https://theringsofsaturn.github.io/Vrit_Patat/index.html">Prototype Game - Kill the Duck</a></li>
         <li><a href="https://theringsofsaturn.github.io/Bretkosa_ne_rruge/index.html">Prototype Game - The Frog</a></li>
         <li><a href="https://github.com/theringsofsaturn/Ishulli_Askund">Sky Island - 3D Model made with Blender</a></li>
-        <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module5/">Chinese Restaurant Project</a></li>
+        <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript/module5/index.html">Chinese Restaurant Project</a></li>
         <li><a href="https://theringsofsaturn.github.io/IBM_Data_Science/Analyzing_US_Economic_Data.html">Analyzing US Economic Data and Building a Dashboard</a></li>
         <li><a href="https://theringsofsaturn.github.io/IBM_Data_Science/Socioeconomics_indicators_in_Chicago.html">Analyzing Chicago Datasets</a></li>
         <li><a href="https://theringsofsaturn.github.io/IBM_Data_Science/Queue_model_for_Data_Science_project/Queue_model_for_patient_flow.html">Managing Patients Flow in the Emergency Department Using Queuing Model</a></li>
