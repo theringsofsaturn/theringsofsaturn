@@ -5,7 +5,7 @@
 <h1> Hello < World / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
         
-![Most Active GitHub User Rank](https://envujdp00t622up.m.pipedream.net)        
+       
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=theringsofsaturn.theringsofsaturn)
 
 </p>
