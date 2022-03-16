@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on web and cross-platform applications and 2D/3D games.
 
-- 🌱 I’m a Full-Stack Developer graduating from <a href="https://strive.school/" target="_blank">Strive School</a>
+- 🌱 I’m a Full-Stack Developer graduating from <a href="https://epicode.com/en/" target="_blank">EPICODE</a>
 
 - 👯 I’m looking to collaborate on web applications or game development. 
 
