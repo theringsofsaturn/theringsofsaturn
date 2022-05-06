@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on web and cross-platform applications and 2D/3D games.
+- 🔭 I’m currently working on web applications and 2D/3D games.
 
 - 🌱 I’m a Full-Stack Developer graduated from <a href="https://epicode.com/en/" target="_blank">EPICODE</a>
 
