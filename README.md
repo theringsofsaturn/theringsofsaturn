@@ -68,7 +68,7 @@
 <h2> Projects </h2>
 
 <ul style="list-style-type:square;">
-        <li><a href="https://github.com/theringsofsaturn/Owl-of-Minerva">Social Media for Book Lovers</a></li>
+        <li><a href="https://www.youtube.com/watch?v=27qO-NUYRzU&t">Social Media for Book Lovers</a></li>
         <li><a href="https://github.com/theringsofsaturn/Netflix-App-Full-Stack">Fullstack Netflix Application</a></li>
         <li><a href="https://github.com/theringsofsaturn/LinkedIn-Front-End">Linkedin Front-End</a></li>
         <li><a href="https://github.com/JTapioT/linkedin-backend-buildweek/tree/develop">Linkedin Back-End</a></li>
