@@ -5,7 +5,7 @@
 <h1> Hello < World/ >!
 
 </p>
-<div size='20px'> My name is Emilian. Thank You for taking the time to view my Profile :smile: 
+<div size='20px'> I'm Emilian. Thank you for taking the time to view my Profile :smile: 
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=theringsofsaturn.theringsofsaturn)
