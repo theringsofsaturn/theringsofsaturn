@@ -55,7 +55,10 @@ Seeking to take the next step in my career, I am constantly updating my skills, 
 
 
 
-<h2> Hours spent coding in the last months </h2>
+<h2> Hours spent coding in the last months: </h2> 
+
+[![wakatime](https://wakatime.com/badge/user/02c4c477-aaa4-4ea3-8e40-e36eaad16757.svg)](https://wakatime.com/@02c4c477-aaa4-4ea3-8e40-e36eaad16757)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@the_rings_of_saturn&compact=True"/>
 </a>
