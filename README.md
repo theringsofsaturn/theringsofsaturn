@@ -21,7 +21,7 @@ Seeking to take the next step in my career, I am constantly updating my skills, 
 *   🤝  I'm open to collaborating on bulding web applications using modern React and games using Unity Engine
 *   ⚡  My interests are: programming, design, reading, running, hiking, chess, technology, science, documentaries, learning, travel, art, movies, music, museums etc...
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -47,24 +47,23 @@ Seeking to take the next step in my career, I am constantly updating my skills, 
 </p>
 
       
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=822108974" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/the_rings_of_saturn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emilian-kasemi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 
 
+## Coding Activity 
 
-
-<h2> Hours spent coding in the last months: </h2> 
 
 [![wakatime](https://wakatime.com/badge/user/02c4c477-aaa4-4ea3-8e40-e36eaad16757.svg)](https://wakatime.com/@02c4c477-aaa4-4ea3-8e40-e36eaad16757)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@the_rings_of_saturn&compact=True"/>
-</a>
+
+<img align="center" src="https://wakatime.com/share/@the_rings_of_saturn/0fbfd90e-17b1-4494-8550-c4fa49a51977.svg"/>
+
 <br>
 
-<h2> Some Programming Humor for you :smile: </h2>
+## Some Programming Humor for you :smile:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
