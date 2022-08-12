@@ -53,7 +53,7 @@ Seeking to take the next step in my career, I am constantly updating my skills, 
 
 
 
-## Coding Activity 
+## Coding Activity over the last 6 months
 
 
 [![wakatime](https://wakatime.com/badge/user/02c4c477-aaa4-4ea3-8e40-e36eaad16757.svg)](https://wakatime.com/@02c4c477-aaa4-4ea3-8e40-e36eaad16757)
