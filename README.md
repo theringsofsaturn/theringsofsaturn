@@ -53,10 +53,10 @@ Seeking to take the next step in my career, I am constantly updating my skills, 
 
 ## Projects
 
-### 3D Interactive Portfolio
+### <a href="https://emilian-kasemi-portfolio-3d.herokuapp.com/">3D Interactive Portfolio</a>
 https://user-images.githubusercontent.com/60050952/187035218-88020931-cb04-4ce5-bae3-31240627f994.mp4
 
-### 3D Web UI Design
+### <a href="https://emilian-kasemi-portfolio-3d-3.netlify.app/">3D Web UI Design</a>
 https://user-images.githubusercontent.com/60050952/187012660-202dfc18-9203-436f-8365-3e61388ca42b.mov
 
 ### 3D Tetris
