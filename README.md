@@ -56,8 +56,8 @@ Seeking to take the next step in my career, I am constantly updating my skills, 
 ### <a href="https://emilian-kasemi-portfolio-3d.herokuapp.com/" target="_blank">3D Interactive Portfolio</a>
 https://user-images.githubusercontent.com/60050952/187035218-88020931-cb04-4ce5-bae3-31240627f994.mp4
 
-### <a href="https://res.cloudinary.com/dqiyjy9ye/image/upload/v1661735279/random/owl_of_minerva_qbd7fp.png" target="_blank">Owl of Minerva - Book Forum</a>
-https://user-images.githubusercontent.com/60050952/187104421-2a8ce2ad-cdb7-4ec4-8b35-0227f5f4e044.mp4
+### <a href="https://www.youtube.com/watch?v=27qO-NUYRzU" target="_blank">Owl of Minerva - Book Forum</a>
+https://user-images.githubusercontent.com/60050952/187109536-105e733b-2afb-4cce-9159-1e72ea1e8a26.mp4
 
 ### <a href="https://emilian-kasemi-portfolio-3d-3.netlify.app/" target="_blank">3D Web UI Design</a>
 https://user-images.githubusercontent.com/60050952/187104816-83ff1e30-c009-4430-9d4d-fcc83b9abbee.mp4
