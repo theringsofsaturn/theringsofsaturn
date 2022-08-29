@@ -56,12 +56,20 @@ Seeking to take the next step in my career, I am constantly updating my skills, 
 ### <a href="https://emilian-kasemi-portfolio-3d.herokuapp.com/" target="_blank">3D Interactive Portfolio</a>
 https://user-images.githubusercontent.com/60050952/187035218-88020931-cb04-4ce5-bae3-31240627f994.mp4
 
+### <a href="https://res.cloudinary.com/dqiyjy9ye/image/upload/v1661735279/random/owl_of_minerva_qbd7fp.png" target="_blank">Owl of Minerva - Book Forum</a>
+https://user-images.githubusercontent.com/60050952/187104421-2a8ce2ad-cdb7-4ec4-8b35-0227f5f4e044.mp4
+
 ### <a href="https://emilian-kasemi-portfolio-3d-3.netlify.app/" target="_blank">3D Web UI Design</a>
-https://user-images.githubusercontent.com/60050952/187012660-202dfc18-9203-436f-8365-3e61388ca42b.mov
+https://user-images.githubusercontent.com/60050952/187104816-83ff1e30-c009-4430-9d4d-fcc83b9abbee.mp4
 
-### <a href="https://theringsofsaturn.github.io/3D-Tetris/src/index.html" target="_blank">3D Tetris</a>
+### <a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.candyzana" target="_blank">Candy Zana - Match-3 Puzzle Game</a>
+https://user-images.githubusercontent.com/60050952/187104587-861f4155-aec0-4a9d-8040-274a32138bad.mp4
+
+### <a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.piktorivogel" target="_blank">The Little Painter - Educational App for Kids</a>
+https://user-images.githubusercontent.com/60050952/187105126-e81576ae-e08f-4438-b31b-36dd4950fffa.mp4
+
+### <a href="https://youtu.be/27qO-NUYRzU" target="_blank">3D Tetris</a>
 https://user-images.githubusercontent.com/60050952/187033056-88281a92-caea-46be-ade8-8ff7f1235ded.mp4
-
 
 
 
