@@ -11,8 +11,7 @@ Hello <world/> 👋 My name is Emilian
 Full Stack MERN | Game Developer
 --------------------------------
 
-Seeking to take the next step in my career, I am constantly updating my skills, from Web Development to Game Design. 
-<br/> Currently, I'm a Full-Stack Developer focused on MERN stack, and an Indie Game Developer enthusiast.
+Seeking to take the next step in my career, I am constantly updating my skills, from Web Development to Game Design. Currently, I'm a Full-Stack Developer focused on MERN stack, and an Indie Game Developer enthusiast.
 
 *   🖥️  See my portfolio at [Emilian Kasemi's Interactive 3D Portfolio](http://emilian-kasemi-portfolio-3d.herokuapp.com/)
 *   ✉️  You can contact me at [emiliankasemi@gmail.com](mailto:emiliankasemi@gmail.com)
