@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://c.tenor.com/3Irkt45Qb6AAAAAd/mario-difficult-difficult-level.gif" alt="cover" />
+<img width="100%" src="https://i.giphy.com/media/H4nUqdNomOWzJfoIa6/giphy.webp" alt="cover" />
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=theringsofsaturn.theringsofsaturn)
