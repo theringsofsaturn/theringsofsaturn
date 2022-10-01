@@ -1,4 +1,4 @@
-## My life as a developer!
+## Me as a developer!
 <div align="center">
 <img width="100%" src="https://i.giphy.com/media/H4nUqdNomOWzJfoIa6/giphy.webp" alt="cover" />
 </div>
