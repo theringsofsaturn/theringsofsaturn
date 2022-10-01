@@ -12,14 +12,17 @@ Hello <world/> 👋 My name is Emilian
 Full Stack MERN | Game Developer
 --------------------------------
 
-Seeking to take the next step in my career, I am constantly updating my expertise, from Web Development to Game Design. Currently, I'm a Full-Stack Developer focused on MERN stack, and an Indie Game Developer enthusiast.
+Seeking to take the next step in my career, I am constantly updating my expertise, from Web Development to Game Design. Currently, I am working as a Frontend developer at [OMRT](https://www.omrt.tech/), a Dutch Deep Tech design platform for real estate development, based in Amsterdam.
 
-*   🖥️  See my portfolio at [Emilian Kasemi's Interactive 3D Portfolio](http://emilian-kasemi-portfolio-3d.herokuapp.com/)
-*   ✉️  You can contact me at [emiliankasemi@gmail.com](mailto:emiliankasemi@gmail.com)
-*   🚀  I'm currently working on [Web Applications and 2D/3D Games](http://emilian-kasemi-portfolio.netlify.app/)
+*   🖥️  See my [interactive 3D portfolio](http://emilian-kasemi-portfolio-3d.herokuapp.com/)
+*   🚀  Check out some of my projects on my [portfolio website](http://emilian-kasemi-portfolio.netlify.app/)
+*   🎮  You can find some of my games published on [Google Play Store](https://play.google.com/store/apps/dev?id=6201646843189478498)
+*   📽   I make tutorials for beginners about game development and 3D programming on my [Youtube channel](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ)
+*   ⚛   I am contributing to the translation of the new [React Docs](https://beta.reactjs.org/) into my native language
 *   🧠  I'm learning everyday something new!
 *   🤝  I'm open to collaborating on bulding web applications using modern React and games using Unity Engine
 *   ⚡  My interests are: programming, design, reading, running, hiking, chess, technology, science, documentaries, learning, travel, art, movies, music, museums etc...
+*   ✉️  You can contact me at [emiliankasemi@gmail.com](mailto:emiliankasemi@gmail.com)
 
 ## Skills
 
