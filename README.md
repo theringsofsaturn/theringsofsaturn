@@ -56,14 +56,11 @@ Seeking to take the next step in my career, I am constantly updating my expertis
 
 ## Projects
 
-### <a href="https://emilian-kasemi-portfolio-3d.herokuapp.com/" target="_blank">3D Interactive Portfolio</a>
+### <a href="https://emilian-kasemi-portfolio-3d.herokuapp.com/" target="_blank">Interactive 3D Portfolio</a>
 https://user-images.githubusercontent.com/60050952/187035218-88020931-cb04-4ce5-bae3-31240627f994.mp4
 
 ### <a href="https://www.youtube.com/watch?v=27qO-NUYRzU" target="_blank">Owl of Minerva - Book Forum</a>
 https://user-images.githubusercontent.com/60050952/187109536-105e733b-2afb-4cce-9159-1e72ea1e8a26.mp4
-
-### <a href="https://emilian-kasemi-portfolio-3d-3.netlify.app/" target="_blank">3D Web UI Design</a>
-https://user-images.githubusercontent.com/60050952/187104816-83ff1e30-c009-4430-9d4d-fcc83b9abbee.mp4
 
 ### <a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.candyzana" target="_blank">Candy Zana - Match-3 Puzzle Game</a>
 https://user-images.githubusercontent.com/60050952/187104587-861f4155-aec0-4a9d-8040-274a32138bad.mp4
@@ -71,9 +68,14 @@ https://user-images.githubusercontent.com/60050952/187104587-861f4155-aec0-4a9d-
 ### <a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.piktorivogel" target="_blank">The Little Painter - Educational App for Kids</a>
 https://user-images.githubusercontent.com/60050952/187105126-e81576ae-e08f-4438-b31b-36dd4950fffa.mp4
 
+### <a href="https://emilian-kasemi-3d-art-gallery.netlify.app/" target="_blank">Interactive 3D Art Gallery</a>
+https://user-images.githubusercontent.com/60050952/201433729-abf9498f-3a3e-4eea-ae81-dd9d657c5bd6.mp4
+
+### <a href="https://emilian-kasemi-portfolio-3d-3.netlify.app/" target="_blank">3D Web UI Design</a>
+https://user-images.githubusercontent.com/60050952/187104816-83ff1e30-c009-4430-9d4d-fcc83b9abbee.mp4
+
 ### <a href="https://youtu.be/27qO-NUYRzU" target="_blank">3D Tetris</a>
 https://user-images.githubusercontent.com/60050952/187033056-88281a92-caea-46be-ade8-8ff7f1235ded.mp4
-
 
 
 ## Coding activity over the last 6 months
