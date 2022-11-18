@@ -1,16 +1,20 @@
-## Me as a developer!
-<div align="center">
-<img width="100%" src="https://i.giphy.com/media/H4nUqdNomOWzJfoIa6/giphy.webp" alt="cover" />
-</div>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=theringsofsaturn.theringsofsaturn)
-
 
 Hello <world/> 👋 My name is Emilian
 ========================
-
 Full Stack MERN | Game Developer
 --------------------------------
+
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60050952/202599570-44ebe432-30d1-46e3-9fdb-5babe18c00fb.gif" alt="cover" />
+
+</br>
+
+## These are my skills as a developer 😎
+
+<img width="800" height="450" src="https://i.giphy.com/media/H4nUqdNomOWzJfoIa6/giphy.webp" alt="cover" />
+
+</br>
 
 Seeking to take the next step in my career, I am constantly updating my expertise, from Web Development to Game Design. Currently, I am working as a Frontend developer at [OMRT](https://www.omrt.tech/), a Dutch Deep Tech design platform for real estate development, based in Amsterdam.
 
