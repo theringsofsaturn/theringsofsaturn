@@ -16,7 +16,7 @@ Full Stack MERN | Game Developer
 
 </br>
 
-Seeking to take the next step in my career, I am constantly updating my expertise, from Web Development to Game Design. Currently, I am working as a Frontend developer at [OMRT](https://www.omrt.tech/), a Dutch Deep Tech design platform for real estate development, based in Amsterdam.
+### Seeking to take the next step in my career, I am constantly updating my expertise, from Web Development to Game Design. Currently, I am working as a Frontend developer at [OMRT](https://www.omrt.tech/), a Dutch Deep Tech design platform for real estate development, based in Amsterdam.
 
 *   🖥️  See my [interactive 3D portfolio](http://emilian-kasemi-portfolio-3d.herokuapp.com/)
 *   🚀  Check out some of my projects on my [portfolio website](http://emilian-kasemi-portfolio.netlify.app/)
