@@ -28,6 +28,14 @@ Full Stack MERN | Game Developer
 *   ⚡  My interests are: programming, design, reading, running, hiking, chess, technology, science, documentaries, learning, travel, art, movies, music, museums etc...
 *   ✉️  You can contact me at [emiliankasemi@gmail.com](mailto:emiliankasemi@gmail.com)
 
+<br>
+
+## Socials
+
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=822108974" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/the_rings_of_saturn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emilian-kasemi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+<br>
+
 ## Skills
 
 <p align="left">
@@ -53,11 +61,18 @@ Full Stack MERN | Game Developer
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
+<br>
+
+## Coding activity over the last 6 months
+
+
+[![wakatime](https://wakatime.com/badge/user/02c4c477-aaa4-4ea3-8e40-e36eaad16757.svg)](https://wakatime.com/@02c4c477-aaa4-4ea3-8e40-e36eaad16757)
+
+
+<img align="center" src="https://wakatime.com/share/@the_rings_of_saturn/0fbfd90e-17b1-4494-8550-c4fa49a51977.svg"/>
+
+<br>
       
-## Socials
-
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=822108974" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/the_rings_of_saturn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emilian-kasemi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
 ## Projects
 
 ### <a href="https://emilian-kasemi-portfolio-3d.herokuapp.com/" target="_blank">Interactive 3D Portfolio</a>
@@ -80,15 +95,6 @@ https://user-images.githubusercontent.com/60050952/187104816-83ff1e30-c009-4430-
 
 ### <a href="https://youtu.be/27qO-NUYRzU" target="_blank">3D Tetris</a>
 https://user-images.githubusercontent.com/60050952/187033056-88281a92-caea-46be-ade8-8ff7f1235ded.mp4
-
-
-## Coding activity over the last 6 months
-
-
-[![wakatime](https://wakatime.com/badge/user/02c4c477-aaa4-4ea3-8e40-e36eaad16757.svg)](https://wakatime.com/@02c4c477-aaa4-4ea3-8e40-e36eaad16757)
-
-
-<img align="center" src="https://wakatime.com/share/@the_rings_of_saturn/0fbfd90e-17b1-4494-8550-c4fa49a51977.svg"/>
 
 <br>
 
