@@ -90,6 +90,9 @@ https://user-images.githubusercontent.com/60050952/187105126-e81576ae-e08f-4438-
 ### <a href="https://emilian-kasemi-3d-art-gallery.netlify.app/" target="_blank">Interactive 3D Art Gallery</a>
 https://user-images.githubusercontent.com/60050952/201433729-abf9498f-3a3e-4eea-ae81-dd9d657c5bd6.mp4
 
+### <a href="https://youtu.be/8oQC0ICNtL0" target="_blank">Virtual Museum Tour - Immersive Experience</a>
+https://user-images.githubusercontent.com/60050952/205469417-3724af32-7f2f-474e-8f3d-0e704347504c.mp4
+
 ### <a href="https://emilian-kasemi-portfolio-3d-3.netlify.app/" target="_blank">3D Web UI Design</a>
 https://user-images.githubusercontent.com/60050952/187104816-83ff1e30-c009-4430-9d4d-fcc83b9abbee.mp4
 
