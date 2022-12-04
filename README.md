@@ -21,7 +21,7 @@ Full Stack MERN | Game Developer
 *   🖥️  See my [interactive 3D portfolio](http://emilian-kasemi-portfolio-3d.herokuapp.com/)
 *   🚀  Check out some of my projects on my [portfolio website](http://emilian-kasemi-portfolio.netlify.app/)
 *   🎮  You can find some of my games published on [Google Play Store](https://play.google.com/store/apps/dev?id=6201646843189478498)
-*   📽   I make tutorials for beginners about game development and 3D programming on my [Youtube channel](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ)
+*   📽   I make tutorials for beginners on game development and 3D programming on my [Youtube channel](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ)
 *   ⚛   I am contributing to the translation of the new [React Docs](https://beta.reactjs.org/) into my native language
 *   🧠  I'm learning everyday something new!
 *   🤝  I'm open to collaborating on bulding web applications using modern React and games using Unity Engine
