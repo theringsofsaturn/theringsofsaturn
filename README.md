@@ -12,7 +12,7 @@ Full Stack MERN | Game Developer
 
 ## These are my skills as a developer 😎
 
-<img width="800" height="450" src="https://i.giphy.com/media/H4nUqdNomOWzJfoIa6/giphy.webp" alt="cover" />
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60050952/220871998-feee2577-1de0-41d5-a07d-dd433b404547.gif" alt="cover" />
 
 </br>
 
