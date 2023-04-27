@@ -93,12 +93,6 @@ https://user-images.githubusercontent.com/60050952/201433729-abf9498f-3a3e-4eea-
 ### <a href="https://youtu.be/8oQC0ICNtL0" target="_blank">Virtual Museum Tour - Immersive Experience</a>
 https://user-images.githubusercontent.com/60050952/205469417-3724af32-7f2f-474e-8f3d-0e704347504c.mp4
 
-### <a href="https://emilian-kasemi-portfolio-3d-3.netlify.app/" target="_blank">3D Web UI Design</a>
-https://user-images.githubusercontent.com/60050952/187104816-83ff1e30-c009-4430-9d4d-fcc83b9abbee.mp4
-
-### <a href="https://youtu.be/27qO-NUYRzU" target="_blank">3D Tetris</a>
-https://user-images.githubusercontent.com/60050952/187033056-88281a92-caea-46be-ade8-8ff7f1235ded.mp4
-
 <br>
 
 ## Some Programming Humor for you :smile:
