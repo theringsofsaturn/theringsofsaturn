@@ -2,7 +2,7 @@
 
 Hello <world/> 👋 My name is Emilian
 ========================
-Full Stack MERN | Game Developer
+Full Stack | Game Developer
 --------------------------------
 
 
