@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=theringsofsaturn.theringsofsaturn)
-
 Hello <world/> 👋 My name is Emilian
 ========================
 Full Stack | Game Developer
