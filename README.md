@@ -1,6 +1,6 @@
 Hello <world/> 👋 My name is Emilian
 ========================
-Full Stack | Game Developer
+Creative Developer / Front-End Engineer
 --------------------------------
 
 
