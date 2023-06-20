@@ -3,9 +3,6 @@ Hello <world/> 👋 My name is Emilian
 Creative Developer / Front-End Engineer
 --------------------------------
 
-
-<img width="800" height="450" src="https://user-images.githubusercontent.com/60050952/202599570-44ebe432-30d1-46e3-9fdb-5babe18c00fb.gif" alt="cover" />
-
 </br>
 
 ## These are my skills as a developer 😎
