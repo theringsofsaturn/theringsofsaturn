@@ -1,8 +1,7 @@
 Hello <world/> 👋 My name is Emilian
 ========================
-Creative Developer / Front-End Engineer
+ Front-End Engineer / Creative Developer / Game Developer
 --------------------------------
-
 </br>
 
 ## My skills as a developer 😎
