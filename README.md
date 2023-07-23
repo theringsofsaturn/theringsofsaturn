@@ -12,7 +12,7 @@ Hello <world/> 👋 My name is Emilian
 
 #### Seeking to take the next step in my career, I am constantly updating my expertise, from Web Development to Game Design. Currently, I am working as a Front-End Engineer at [OMRT](https://www.omrt.tech/). OMRT builds a Deep Tech design platform for real estate development. The product of OMRT is a collection of architectural design, physics, finance, and material modules that are connected within one digital brain. Together, it generates and analyses building designs parametrically.
 
-*   🖥️  See my [interactive 3D portfolio](http://emilian-kasemi-portfolio-3d.herokuapp.com/)
+*   🖥️  See my [interactive 3D portfolio](https://emilian-kasemi-portfolio.netlify.app/)
 *   🚀  Check out some of my projects on my [portfolio website](http://emilian-kasemi-portfolio.netlify.app/)
 *   🎮  You can find some of my games published on [Google Play Store](https://play.google.com/store/apps/dev?id=6201646843189478498)
 *   📽   I make tutorials for beginners on game development and 3D programming on my [Youtube channel](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ)
