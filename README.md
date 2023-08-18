@@ -66,6 +66,9 @@ Hello <world/> 👋 My name is Emilian
       
 ## Projects
 
+### <a href="https://emilian-kasemi-portfolio.netlify.app/" target="_blank">Interactive 3D Portfolio</a>
+https://github.com/theringsofsaturn/theringsofsaturn/assets/60050952/a4ef7c0b-15cc-4241-9288-6333365ea087
+
 ### <a href="https://youtu.be/1VhLCF3CBSk" target="_blank">Interactive 3D Portfolio</a>
 https://user-images.githubusercontent.com/60050952/187035218-88020931-cb04-4ce5-bae3-31240627f994.mp4
 
@@ -73,7 +76,7 @@ https://user-images.githubusercontent.com/60050952/187035218-88020931-cb04-4ce5-
 https://github.com/theringsofsaturn/theringsofsaturn/assets/60050952/6b10bc67-c685-4315-ab37-dfb4209a9daa
 
 ### <a href="https://youtu.be/vfMizAmPprs" target="_blank">Interactive 3D Art Gallery</a>
-https://github.com/theringsofsaturn/theringsofsaturn/assets/60050952/859ae5b1-f9c5-45ef-a0cf-227f15dcb5f0
+https://github.com/theringsofsaturn/theringsofsaturn/assets/60050952/ad11d339-f41b-44ed-b74a-b0f84aa0d23c
 
 ### <a href="https://youtu.be/8oQC0ICNtL0" target="_blank">Virtual Museum Tour - Immersive Experience</a>
 https://user-images.githubusercontent.com/60050952/205469417-3724af32-7f2f-474e-8f3d-0e704347504c.mp4
