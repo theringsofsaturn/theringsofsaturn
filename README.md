@@ -1,20 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue) 
 
 <p align="left">
-    <br />
-    <br />
-    <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ">
-      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
-  </p>
+  <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ?sub_confirmation=1">
+  <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
-
-<a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ">
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCMhhk4PwFN5brZJks8Nr4aQ&key=AIzaSyAR7e13SiVDJRbJDArT30pnDpeW_Zpmkck"/>
-</a>
-
-
 
 <h1> Hello < World >! My name is Emilian <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
