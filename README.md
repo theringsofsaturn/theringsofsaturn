@@ -1,10 +1,12 @@
-Hello <world/> 👋 My name is Emilian
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+<h1> Hello < World >! My name is Emilian <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<p align='center'>
 
-Front-End Engineer / Creative Developer / Game Developer
+<h3> Front-End Engineer / Creative Developer / Game Developer </h3>
 
 </br>
 
-## My skills as a developer 😎
+<h3> My skills as a developer 😎 </h3>
 
 <img width="800" height="450" src="https://user-images.githubusercontent.com/60050952/220871998-feee2577-1de0-41d5-a07d-dd433b404547.gif" alt="cover" />
 
