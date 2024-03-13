@@ -16,18 +16,18 @@ Seeking to take the next step in my career, I am constantly updating my expertis
 
 *   🖥️  See my [interactive 3D portfolio](https://emilian-kasemi-portfolio.netlify.app/)
 *   🚀  Check out some of my projects on my [repositories](https://github.com/theringsofsaturn?tab=repositories)
+*   📽   I make tutorials on 3D web development on my [Youtube channel](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ)
 *   🎮  You can find some of my games published on [Google Play Store](https://play.google.com/store/apps/dev?id=6201646843189478498)
-*   📽   I make tutorials for beginners on game development and 3D programming on my [Youtube channel](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ)
 *   ⚛   I am contributing to the translation of the new [React Docs](https://beta.reactjs.org/) into my native language
 *   🧠  I'm learning everyday something new!
-*   🤝  I'm open to collaborating on bulding web applications using modern React and games using Unity Engine
+*   🤝  I'm open to collaborating. Whether it’s a project collaboration, a role in your company, or any interesting gig, feel free to reach out.
 *   ⚡  My interests are: programming, design, reading, running, hiking, chess, technology, science, documentaries, learning, travel, art, movies, music, museums etc...
 *   ✉️  You can contact me at [emiliankasemi@gmail.com](mailto:emiliankasemi@gmail.com)
 
 <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_rings_of_saturn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilian-kasemi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EmilianKasemi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/EmilianKasemi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilian-kasemi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/EmilianKasemi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_rings_of_saturn) 
 
 <br>
 
@@ -68,16 +68,16 @@ Seeking to take the next step in my career, I am constantly updating my expertis
       
 ## Projects
 
-### <a href="https://emilian-kasemi-portfolio.netlify.app/" target="_blank">Interactive 3D Portfolio</a>
+### <a href="https://youtu.be/mJRuHhKJ2cs?si=uPinTrSn-Ql1h5RR" target="_blank">Interactive 3D Portfolio</a>
 https://github.com/theringsofsaturn/theringsofsaturn/assets/60050952/a4ef7c0b-15cc-4241-9288-6333365ea087
 
 ### <a href="https://youtu.be/1VhLCF3CBSk" target="_blank">Interactive 3D Portfolio</a>
 https://user-images.githubusercontent.com/60050952/187035218-88020931-cb04-4ce5-bae3-31240627f994.mp4
 
-### <a href="https://emilian-kasemi-portfolio.netlify.app/" target="_blank">Interactive 3D Portfolio</a>
+### <a href="emilian-kasemi-portfolio2.netlify.app" target="_blank">Interactive 3D Portfolio</a>
 https://github.com/theringsofsaturn/theringsofsaturn/assets/60050952/6b10bc67-c685-4315-ab37-dfb4209a9daa
 
-### <a href="https://youtu.be/vfMizAmPprs" target="_blank">Interactive 3D Art Gallery</a>
+### <a href="https://youtu.be/_AUAXlMBXyc?si=P0lt4XxHTguoHSpP" target="_blank">Interactive 3D Art Gallery</a>
 https://github.com/theringsofsaturn/theringsofsaturn/assets/60050952/ad11d339-f41b-44ed-b74a-b0f84aa0d23c
 
 ### <a href="https://youtu.be/8oQC0ICNtL0" target="_blank">Virtual Museum Tour - Immersive Experience</a>
