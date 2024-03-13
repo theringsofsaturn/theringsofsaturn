@@ -1,11 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue) 
-
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ?sub_confirmation=1">
-  <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
 <h1> Hello < World >! My name is Emilian <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
@@ -33,12 +26,25 @@ Seeking to take the next step in my career, I am constantly updating my expertis
 
 <br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilian-kasemi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/EmilianKasemi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_rings_of_saturn) 
+<h3>Connect With Me on LinkedIn:</h3> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilian-kasemi) 
+
+<h3>Subscribe to My YouTube Channel:</h3>
+
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ?sub_confirmation=1">
+  <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+<h3> YouTube Stats: </h3>
+
+[![Emilian's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCMhhk4PwFN5brZJks8Nr4aQ)](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ)
 
 <br>
 
-# 💻 Tech Stack:
+<h2> 💻 Tech Stack: </h2> 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
@@ -63,7 +69,7 @@ Seeking to take the next step in my career, I am constantly updating my expertis
 
 <br>
 
-## Coding activity over the last 6 months
+<h3> Coding activity over the last 6 months: </h3> 
 
 
 [![wakatime](https://wakatime.com/badge/user/02c4c477-aaa4-4ea3-8e40-e36eaad16757.svg)](https://wakatime.com/@02c4c477-aaa4-4ea3-8e40-e36eaad16757)
@@ -73,7 +79,7 @@ Seeking to take the next step in my career, I am constantly updating my expertis
 
 <br>
       
-## Projects
+<h3> Projects: </h3>
 
 ### <a href="https://youtu.be/mJRuHhKJ2cs?si=uPinTrSn-Ql1h5RR" target="_blank">Interactive 3D Portfolio</a>
 https://github.com/theringsofsaturn/theringsofsaturn/assets/60050952/a4ef7c0b-15cc-4241-9288-6333365ea087
@@ -101,7 +107,7 @@ https://user-images.githubusercontent.com/60050952/187105126-e81576ae-e08f-4438-
 
 <br>
 
-## Some Programming Humor for you :smile:
+<h3> Some Programming Humor for you :smile: </h3> 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
