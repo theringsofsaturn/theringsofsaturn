@@ -1,6 +1,7 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue) 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)  
 <h1> Hello < World >! My name is Emilian <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
+
 
 <h3> Front-End Engineer / Creative Developer / Game Developer </h3>
 
