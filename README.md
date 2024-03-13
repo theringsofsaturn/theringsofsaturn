@@ -6,9 +6,7 @@
 
 </br>
 
-<h3> My skills as a developer 😎 </h3>
-
-<img width="800" height="450" src="https://user-images.githubusercontent.com/60050952/220871998-feee2577-1de0-41d5-a07d-dd433b404547.gif" alt="cover" />
+<img width="800" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cover" />
 
 </br>
 
