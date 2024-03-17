@@ -38,12 +38,6 @@ Seeking to take the next step in my career, I am constantly updating my expertis
   </a>
 </p>
 
-<h3> YouTube Stats: </h3>
-
-[![Emilian's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCMhhk4PwFN5brZJks8Nr4aQ)](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ)
-
-<br>
-
 <h2> 💻 Tech Stack: </h2> 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
