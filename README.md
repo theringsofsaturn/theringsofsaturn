@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)  
 [![Number of subscribers on YouTube](https://img.shields.io/youtube/channel/subscribers/UCMhhk4PwFN5brZJks8Nr4aQ?style=social)](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ?sub_confirmation=1)
+[![Linkedin](https://img.shields.io/badge/Emilian%20Kasemi%20-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emilian-kasemi/)](https://www.linkedin.com/in/emilian-kasemi/)
 
 <h1> Hello < World >! My name is Emilian <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
@@ -26,18 +27,6 @@ Seeking to take the next step in my career, I am constantly updating my expertis
 *   ✉️  You can contact me at [emiliankasemi@gmail.com](mailto:emiliankasemi@gmail.com)
 
 <br>
-
-<h3>Connect With Me on LinkedIn:</h3> 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilian-kasemi) 
-
-<h3>Subscribe to My YouTube Channel:</h3>
-
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ?sub_confirmation=1">
-  <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
 
 <h2> 💻 Tech Stack: </h2> 
 
