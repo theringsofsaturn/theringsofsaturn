@@ -1,6 +1,17 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)  
-[![Number of subscribers on YouTube](https://img.shields.io/youtube/channel/subscribers/UCMhhk4PwFN5brZJks8Nr4aQ?style=social)](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ?sub_confirmation=1)
-[![Linkedin](https://img.shields.io/badge/Emilian%20Kasemi%20-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emilian-kasemi/)](https://www.linkedin.com/in/emilian-kasemi/)
+<p align='center'>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Profile Views">
+</p>
+<p align='center'>
+    <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ?sub_confirmation=1">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCMhhk4PwFN5brZJks8Nr4aQ?style=social" alt="Number of subscribers on YouTube">
+    </a>
+</p>
+<p align='center'>
+    <a href="https://www.linkedin.com/in/emilian-kasemi/">
+        <img src="https://img.shields.io/badge/Emilian%20Kasemi%20-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin">
+    </a>
+</p>
+
 
 <h1> Hello < World >! My name is Emilian <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
