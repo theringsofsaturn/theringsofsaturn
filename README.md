@@ -1,10 +1,7 @@
-<p align='center'>
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Profile Views">
+<p align='left'>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue">
     <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ?sub_confirmation=1">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UCMhhk4PwFN5brZJks8Nr4aQ?style=social" alt="Number of subscribers on YouTube">
-    </a>
-    <a href="https://www.linkedin.com/in/emilian-kasemi/">
-        <img src="https://img.shields.io/badge/Emilian%20Kasemi%20-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCMhhk4PwFN5brZJks8Nr4aQ?style=social">
     </a>
 </p>
 
