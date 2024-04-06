@@ -50,7 +50,7 @@ Seeking to take the next step in my career, I am constantly updating my expertis
 
 <br>
 
-<h3> Coding activity over the last year: </h3> 
+<h3> Coding activity: </h3> 
 
 
 [![wakatime](https://wakatime.com/badge/user/02c4c477-aaa4-4ea3-8e40-e36eaad16757.svg)](https://wakatime.com/@02c4c477-aaa4-4ea3-8e40-e36eaad16757)
