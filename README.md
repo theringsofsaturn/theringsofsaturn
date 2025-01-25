@@ -23,6 +23,13 @@
 
 Seeking to take the next step in my career, I am constantly updating my expertise, from Web Development to Game Design. Currently, I am working as a Front-End Engineer at a Dutch company, [OMRT](https://www.omrt.tech/). OMRT builds a Deep Tech design platform for real estate development. The product of OMRT is a collection of architectural design, physics, finance, and material modules that are connected within one digital brain. Together, it generates and analyses building designs parametrically.
 
+---
+
+🌟 Welcome to my personal space on GitHub!  
+Discover more about me, my projects, and my thoughts on tech and books on my [personal website](https://www.emiliankasemi.com/). Dive into my blog for tech articles and book reviews or explore my portfolio projects!
+
+---
+
 *   🖥️  See my [interactive 3D portfolio](https://emilian-kasemi-portfolio.netlify.app/)
 *   🚀  Check out some of my projects on my [repositories](https://github.com/theringsofsaturn?tab=repositories)
 *   📽   I make tutorials on 3D web development on my [Youtube channel](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ)
