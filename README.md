@@ -6,9 +6,7 @@
 </p>
 
 
-
 <h1> Hello < World >! My name is Emilian <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
 
@@ -24,15 +22,13 @@
 Seeking to take the next step in my career, I am constantly updating my expertise, from Web Development to Game Design. Currently, I am working as a Front-End Engineer at a Dutch company, [OMRT](https://www.omrt.tech/). OMRT builds a Deep Tech design platform for real estate development. The product of OMRT is a collection of architectural design, physics, finance, and material modules that are connected within one digital brain. Together, it generates and analyses building designs parametrically.
 
 ---
-
-🌟 Welcome to my personal space on GitHub!  
+ 
 Discover more about me, my projects, and my thoughts on tech and books on my [personal website](https://www.emiliankasemi.com/). Dive into my blog for tech articles and book reviews or explore my portfolio projects!
+Also:
 
----
-
-*   🖥️  See my [interactive 3D portfolio](https://emilian-kasemi-portfolio.netlify.app/)
-*   🚀  Check out some of my projects on my [repositories](https://github.com/theringsofsaturn?tab=repositories)
+*   🚀  Check out some of my projects [projects](https://www.emiliankasemi.com/projects)
 *   📽   I make tutorials on 3D web development on my [Youtube channel](https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ)
+*   🖥️  See oe of my [interactive 3D portfolios](https://emilian-kasemi-portfolio.netlify.app/)
 *   🎮  You can find some of my games published on [Google Play Store](https://play.google.com/store/apps/dev?id=6201646843189478498)
 *   ⚛   I am contributing to the translation of the new [React Docs](https://beta.reactjs.org/) into my native language
 *   🧠  I'm learning everyday something new!
@@ -40,7 +36,7 @@ Discover more about me, my projects, and my thoughts on tech and books on my [pe
 *   ⚡  My interests are: programming, design, reading, running, hiking, chess, technology, science, documentaries, learning, travel, art, movies, music, museums etc...
 *   ✉️  You can contact me at [emiliankasemi@gmail.com](mailto:emiliankasemi@gmail.com)
 
-<br>
+---
 
 <h2> 💻 Tech Stack: </h2> 
 
@@ -53,9 +49,7 @@ Discover more about me, my projects, and my thoughts on tech and books on my [pe
 ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-
-
-<br>
+---
 
 <h3> Coding activity: </h3> 
 
@@ -65,7 +59,7 @@ Discover more about me, my projects, and my thoughts on tech and books on my [pe
 
 <img align="center" src="https://wakatime.com/share/@the_rings_of_saturn/0fbfd90e-17b1-4494-8550-c4fa49a51977.svg"/>
 
-<br>
+---
       
 <h3> Projects: </h3>
 
@@ -93,7 +87,7 @@ https://user-images.githubusercontent.com/60050952/187104587-861f4155-aec0-4a9d-
 ### <a href="https://play.google.com/store/apps/details?id=com.emiliankasemi.piktorivogel" target="_blank">The Little Painter - Educational App for Kids</a>
 https://user-images.githubusercontent.com/60050952/187105126-e81576ae-e08f-4438-b31b-36dd4950fffa.mp4
 
-<br>
+---
 
 <h3> Some Programming Humor for you :smile: </h3> 
 
